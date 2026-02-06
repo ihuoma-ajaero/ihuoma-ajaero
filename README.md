@@ -1,16 +1,16 @@
-## Hello, I'm Ihuoma. 
+### Hello, I'm Ihuoma. 
 <a href="https://linkedin.com/in/ihuoma-ajaero/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logoColor=white" /></a>
 
-I am a recent Masters in Cybersecurity graduate with a profound interest in Governance, Risk, and Compliance, dedicated to ensuring safety of information and systems. 
+I am a recent Masters in Cybersecurity graduate with a profound interest in Governance, Risk, and Compliance, dedicated to ensuring safety annd preserving privacy of information and systems. 
 
-## Objective
+## OBJECTIVE
 My journey in Cybersecurity has led me to develop a passion for discovering and eliminating risk, and now I am dedicated to learning tools and frameworks that help attain this goal. I am eager to transition into this field, specifically Governance, Risk, and Compliance (GRC) as an entry level analyst. 
-I have created a fictional company, FIRST CARE CORP, to be used in the projects. 
+I have created a fictional company, **LEMONCORP**, to be used in the projects. 
 
-## First Care Corp
-#### About
+#### LemonCorp
+- <a href="https://github.com/ihuoma-ajaero/LemonCorp/blob/main">About LemonCorp</a>
 
-## Certifications
+## CERTIFICATIONS
 <div>
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
 
@@ -18,7 +18,7 @@ I have created a fictional company, FIRST CARE CORP, to be used in the projects.
 <div>
 
 
-## Skills
+## SKILLS
 | SKILL                                      | FRAMEWORK(s)                                  | ASSOCIATED PROJECT                                                           
 |                                            |                                               |
 
@@ -35,11 +35,9 @@ I have created a fictional company, FIRST CARE CORP, to be used in the projects.
   <img src="https://img.shields.io/badge/ISO%2FIEC-27001-1f7aec?style=for-the-badge&logoColor=white" />
 <div>
   
-## Tools
-### Analytic tools
-### Documentation
+## TOOLS
 
-## Projects
+## PROJECTS
 
 
 <!--
